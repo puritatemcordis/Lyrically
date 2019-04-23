@@ -16,3 +16,5 @@ Python scripts that converts music sheets in PDF format into images (JPEG) which
 ### Dependencies
 * [tqdm](https://github.com/tqdm/tqdm)
 * [pytesseract](https://pypi.org/project/pytesseract/)
+* [pdf2image](https://pypi.org/project/pdf2image/)
+* [poppler](https://pypi.org/project/python-poppler-qt5/)
